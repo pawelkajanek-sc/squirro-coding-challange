@@ -1,10 +1,9 @@
 import React from 'react';
+import { BookstoreList } from "./components/BookstoreList";
 
 function App() {
   return (
-    <div>
-      Hello world
-    </div>
+    <BookstoreList />
   );
 }
 
