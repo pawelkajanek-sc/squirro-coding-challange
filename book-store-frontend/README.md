@@ -1,4 +1,4 @@
-# Book store Frontend
+# Bookstore Frontend
 
 ## Installation and Startup
 
